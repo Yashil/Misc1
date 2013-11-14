@@ -1,5 +1,6 @@
 /**********************************************************************/
 // Get a desired frame from video file using gstreamer and display it using OpenCV
+// Written by: Yashil ( yashil1@yahoo.com )
 
 /**********************************************************************/
 // gstreamer includes and libraries
